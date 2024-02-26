@@ -11,7 +11,6 @@ areaQuadrado(5); // 25
 
 areaQuadrado(2); // 4
 
-console.log(areaQuadrado(100));
 
 // chamada de function e declaration
 
